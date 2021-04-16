@@ -1,7 +1,13 @@
 # SpaceX
 
 Developer : Jeyan Bright
+
 Project : SpaceX - Bacancy
+
+Project usage:
+        Download the zip file -> unzip the file -> navigate your command prompt to the current project folder -> run "npm install" in command prompt -> then run "ng serve"
+
+Project Flow : 
 
 Step 1: Create a new project
 
